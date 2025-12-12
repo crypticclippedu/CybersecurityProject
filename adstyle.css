@@ -1,1 +1,35 @@
-
+h2 {
+  font-family: sans-serif;
+}
+h2 {
+  color:coral;
+}
+h4 {
+  font-family: sans-serif;
+}
+h4 {
+  color: red;
+}
+.myImage {
+  background-image: url("statefare.png");
+  border: 12px;
+  border-bottom-color: aqua;
+}
+h2 {
+  border: 3px;
+  border-color: red;
+  border-style: solid;
+  border-radius: 10px;
+}
+body {
+  background-color:black
+}
+.myImage {
+  background-image: url("Chipotle.png");
+}
+h3 {
+  color:coral;
+}
+p {
+  color:coral
+}
