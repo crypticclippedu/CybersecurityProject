@@ -1,1 +1,155 @@
+h1 {
+  color: aqua
+}
+body {
+  background-color: black
+}
 
+h1{
+  border: 3px
+}
+
+
+h1{
+  font-family:fantasy;
+}
+h1 {
+  border-style: solid;
+  border-color: red;
+  border-radius: 100px;
+  padding:6px;
+  text-align: center;
+  font-size: 60px; 
+}
+h3{
+  color: aqua;
+  font-size: 45px;
+  text-align: center; 
+  margin-bottom: 50px;
+  margin-right: 195px;    
+  
+}
+
+#M4{
+  position:absolute;
+  top: 130px;      
+  right: 150px;    
+  width: 535px;
+
+}
+h2 {
+  color: aqua;
+  font-size: 45px;
+  top: 50px;
+  text-align: center; 
+  margin-top: 282px;
+  margin-right: 160px;    
+}
+
+h3{
+
+  color:aqua;
+  font-size: 45px;
+  text-align:center;
+  left:50px
+}
+#SUV{
+  position:absolute;
+  top: 580px;      
+  right: 150px;    
+  width: 535px;
+}
+p{
+  color: aqua;
+  position: absolute;
+  top: 410px
+}
+#XM5{
+    color: aqua;
+    position: absolute;
+    top: 880px
+}
+
+p{
+  border-style: solid;
+  border-color: white;
+  border-radius: 30px;
+  padding:6px;
+  text-align: center;
+}
+#M8Text{
+  color: aqua;
+  position: absolute;
+  top: 1299px  
+}
+#M8{
+  position:absolute;
+  top: 1130px;      
+  right: 100px;    
+  width: 535px;
+}
+h4{
+  color: aqua;
+  font-size: 45px; 
+  position:absolute;
+  top: 1010px;
+  text-align: center;
+  left: 240px;  
+}
+#W{
+  color: aqua;
+  font-size: 45px; 
+  position:absolute;
+  top: 1423px;
+  text-align: center;
+  left: 150px; 
+}
+
+
+#Convertible{
+  position:absolute;
+  top: 1540px;      
+  right: 100px;    
+  width: 535px;
+}
+#ConvertibleText{
+  color: aqua;
+  position: absolute;
+  top: 1706px  
+}
+
+
+.copyright {
+  font-size: 12px;
+  color: mistyrose;
+  top: 369px;
+  left: 25px;
+  border: none;
+  font-style: italic
+}
+
+#M4Copyright{
+  top: 360px;
+  border: none;
+  font-style: italic;
+  color: mistyrose;
+}
+
+#XM5Copyright{
+  top: 815px;
+  border: none;
+  font-style: italic;
+  color: mistyrose;
+}
+#M8Copyright{
+  top: 1265px;
+  border: none;
+  font-style: italic;
+  color: mistyrose;
+}
+#M8ConvertibleCopyright{
+  top: 1675px;
+  border: none;
+  font-style: italic;
+  color: mistyrose;
+}
