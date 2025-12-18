@@ -35,7 +35,7 @@ p {
 }
 #carlink {
   border:3px;
-  bordercolor:red;
-  borderstyle: solid;
+  border-color:red;
+  border-style: solid;
   border-radius: 10px;
 }
